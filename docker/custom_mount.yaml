@@ -1,0 +1,4 @@
+services:
+  isaac-lab-base:
+    volumes:
+      - /home/gkfd/rl_training:/workspace/rl_training
