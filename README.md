@@ -1,3 +1,24 @@
+> ## 📌 关于本仓库
+>
+> **这是 NVIDIA 开源项目 [Isaac Lab](https://github.com/isaac-sim/IsaacLab) 的副本**，
+> 用于本地学习与实验，**并非原创项目**。
+>
+> | 项 | 内容 |
+> |---|---|
+> | 上游仓库 | https://github.com/isaac-sim/IsaacLab |
+> | 版本 | **2.3.2**（见 `VERSION`） |
+> | 版权 | Copyright (c) 2022-2025, **The Isaac Lab Project Developers** |
+> | 许可证 | **BSD-3-Clause**（`LICENSE`）+ **Apache-2.0**（部分组件；mimic 相关见 `LICENSE-mimic`） |
+> | 引用 | 若用于研究，请按 `CITATION.cff` 引用上游技术报告 |
+>
+> **本副本相对上游的改动**：仅新增了根目录的 `check_x30.py`
+> —— 一个用于检查 Isaac Sim 中 `X30.usd` 文件结构的调试脚本。
+> 其余代码与文档均为上游原样。
+>
+> 以下内容为**上游项目原始 README**，未作修改。
+
+---
+
 ![Isaac Lab](docs/source/_static/isaaclab.jpg)
 
 ---
